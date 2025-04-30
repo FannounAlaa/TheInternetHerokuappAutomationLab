@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-30T14:15:39 EET" name="Default suite" finished-at="2025-04-30T14:15:42 EET" duration-ms="3456">
+    <groups>
+    </groups>
+    <test started-at="2025-04-30T14:15:39 EET" name="Default test" finished-at="2025-04-30T14:15:42 EET" duration-ms="3456">
+      <class name="TheInternetHerokuappAutomationLab.TheInternetHerokuappAutomationLab.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TheInternetHerokuappAutomationLab.TheInternetHerokuappAutomationLab.AppTest@7216fb24]" started-at="2025-04-30T14:15:39 EET" name="Setup" finished-at="2025-04-30T14:15:41 EET" duration-ms="1976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="DragAndDropTest()[pri:7, instance:TheInternetHerokuappAutomationLab.TheInternetHerokuappAutomationLab.AppTest@7216fb24]" started-at="2025-04-30T14:15:41 EET" name="DragAndDropTest" finished-at="2025-04-30T14:15:42 EET" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDropTest -->
+      </class> <!-- TheInternetHerokuappAutomationLab.TheInternetHerokuappAutomationLab.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
